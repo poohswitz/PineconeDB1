@@ -13,3 +13,5 @@ python-dotenv
 numpy
 pandas
 tiktoken
+
+ipykernel
