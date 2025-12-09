@@ -1,0 +1,27 @@
+tamilnadu_onestopcenter1.pdf:
+  country: India
+  state: Tamil Nadu
+  district: Chennai
+  region: Guindy
+  service_category: OneStopCentre
+  service_name: OSC_Guindy_1
+
+Data_merged.pdf:
+  country: India
+  state: Tamil Nadu
+  district: Chennai
+  region: Teynampet
+  service_category: MergedData
+  service_name: MergeData
+
+TamilnaduMergedData.pdf:
+  country: India
+  state: Tamil Nadu
+  district: Chennai
+  region: HellowWorld
+  service_category: Tamil
+  service_name: Tamil
+
+syllabus.pdf:
+  sem: "3"
+  dept: mca
